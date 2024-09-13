@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.owner-item{
+    margin-top: 250px;
+    margin-left: 80px;
+}
+.owner-text{
+    font-size: 22px;
+    color: #696969;
+    line-height: 1.5em;
+}
+.home-img{
+    margin-top: 250px;
+    width: 450px;
+    margin-bottom: 300px;
+}
+.service-img{
+    margin-top: 70px;
+}
+.service-item{
+    margin-top: 200px;
+}
+.service-item2{
+     margin-top: 150px;
+}
+.service-item3{
+    margin-top: 150px;
+}
+.service-item4{
+    margin-top: 150px;
+}
+.service-img4{
+     margin-bottom: 80px;
+}
+.our-clients{
+    background-color: #dce2e9;
+}
+.carousel-img{
+    margin-left: 160px;
+}.offer-img{
+    margin-top: 80px;
+    height: 350px;
+    width: 500px;
+    background-color: #dce2e9;
+}
+.contact-item{
+    background-color: #dce2e9;
+}
+.contact-us h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 70px;
+    font-weight: 700;
+}
+.contact-btn{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    height: 60px;
+    width: 150px;
+    background-color: #e51d1d;
+    border: none;
+    transition: all .5s ease-in-out;
+}
+.contact-btn:hover{
+    color: #e51d1d;
+    background-color: #fff;
+    border: 2px solid #e51d1d;
+}
+.copy{
+    background-color: black;
+    height: 60px;
+}
